@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One&display=swap');
+
+* {
+  font-family: 'Francois One', sans-serif;
+  text-align: center
+}
+
+.voltas {
+  font-size: 64px;  
+  font-weight: bold;
+}
+
+.voltas span {
+  font-size: 288px;
+}
+
+button {
+  background-color: #f9f9f9;
+  border: 1px solid black;
+  font-size: 18px;
+  padding: 20px;
+  margin: 8px;
+}
+
+.tempo span{
+  font-weight: bold;
+  font-size: 70px;
+}
+
+.bigger {
+  font-size: 100px;
+  font-weight: bold;  
+  line-height: 64px;
+}
